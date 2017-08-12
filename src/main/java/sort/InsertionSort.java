@@ -5,6 +5,7 @@ import utils.CommonUtils;
 /**
  * Created by luokai on 2017/8/12.
  * 插入排序算法
+ * 逻辑：遍历数组中的数据，从第二个开始，每个都与他前面的数从大到小进行比较
  */
 public class InsertionSort {
 
